@@ -65,7 +65,9 @@ public class HelloView extends javax.swing.JFrame {
 
     private void btnCliqueActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnCliqueActionPerformed
         
-        JOptionPane.showMessageDialog(null, "Olá, Mundo!");
+       
+        // teste feito
+        JOptionPane.showMessageDialog(null, "Olá, Mundo!"); 
     }//GEN-LAST:event_btnCliqueActionPerformed
 
     /**
